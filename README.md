@@ -8,6 +8,8 @@ In the Final Code folder within the ViT folder, you'll find the VIT_plus_GUI.ipy
 
 In the Final Code folder within the CNN Folder, you'll find both the [Final]EfficientNet_B0_CNN_Train_and_Val_Script_EEL4810.py and [Final]EfficientNet_B0_CNN_Test_Script_EEL4810.py files, which are the training & validation script and test script for the CNN. Furthermore, in addition to the USTC SmokeRS dataset, 50 new, unseen smoke images were added to the dataset in the Smoke folder within the dataset for robustness against unseen images, so if you want to try out the dataset as I used it, download the zip file 50 new smoke images.zip and add it to the original dataset's smoke folder.
 
+In the Video Presentation folder, you'll find two YouTube links to video presentations of Part 2: Model Creation and Part 3: Model Improvement.
+
 Find all the necessary libraries to use this codebase in the requirements.txt file on the home page.
 
 I hope you find this project interesting, thank you!
