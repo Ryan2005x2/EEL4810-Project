@@ -1,4 +1,4 @@
-Hello! This is the GitHub repository for Group 9's EEL 4810 - Introduction to Deep Learning semester project, titled: "Wildfire Detection and Response: CNNs vs ViTs on Satellite Imagery with Location-Based Alerts."
+Hello! This is the GitHub repository for Group 9's EEL 4810 - Introduction to Deep Learning semester project, titled: "Wildfire Detection and Response: CNNs vs ViTs on Satellite Imagery with Location-Based Alerts," written by Ryan Andersen, Bailey Hitt, and Josiah Lopez.
 
 Here you'll find the complete code base to run the Alert Notification System GUI with either the completed CNN or ViT model, both trained on the USTC SmokeRS Dataset. You can download the dataset here: https://www.kaggle.com/datasets/chandravanshishubham/ustc-smoke-dataset
 
@@ -11,3 +11,5 @@ In the Final Code folder within the CNN Folder, you'll find both the [Final]Effi
 Find all the necessary libraries to use this codebase in the requirements.txt file on the home page.
 
 I hope you find this project interesting, thank you!
+
+- Ryan Andersen
