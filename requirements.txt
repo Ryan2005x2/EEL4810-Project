@@ -1,0 +1,13 @@
+torch
+torchvision
+transformers
+torchmetrics
+Pillow
+exifread
+requests
+google
+matplotlib
+tqdm
+seaborn
+scikit-learn
+numpy
